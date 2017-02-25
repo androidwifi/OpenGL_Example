@@ -1,0 +1,3 @@
+[submodule "books-sourcecode/interactive_computer_graphics"]
+	path = books-sourcecode/interactive_computer_graphics
+	url = git@github.com:ButchDean/interactive_computer_graphics.git
